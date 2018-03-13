@@ -1,0 +1,28 @@
+---
+title: "WeirdURL"
+author: "rpdunn"
+date: "March 13, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is our simple page on the world wide web.
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+PLOT!
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+More text.
